@@ -1,0 +1,9 @@
+
+#ifdef BLACKJACK_FUNCTIONS_H_
+#define BLACKJACK_FUNCTIONS_H_
+
+void start();
+
+
+
+#endif //BLACKJACK_FUNCTIONS_H_
